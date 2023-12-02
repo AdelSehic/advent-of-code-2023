@@ -1,0 +1,100 @@
+green: 2, blue: 7, red: 19, Game 1 is not possible!!!
+blue: 4, green: 35, Game 2 is not possible!!!
+blue: 32, Game 3 is not possible!!!
+green: 20, Game 4 is not possible!!!
+green: 18, Game 5 is not possible!!!
+green: 10, blue: 10, red: 64, Game 6 is not possible!!!
+green: 5, red: 29, Game 7 is not possible!!!
+blue: 23, Game 8 is not possible!!!
+red: 17, Game 9 is not possible!!!
+red: 28, Game 10 is not possible!!!
+blue: 2, red: 40, Game 11 is not possible!!!
+blue: 29, Game 12 is not possible!!!
+green: 39, Game 13 is not possible!!!
+red: 7, blue: 10, green: 13, Game 14 is possible
+red: 6, blue: 33, Game 15 is not possible!!!
+red: 10, blue: 41, Game 16 is not possible!!!
+red: 6, green: 2, blue: 19, Game 17 is not possible!!!
+blue: 4, red: 32, Game 18 is not possible!!!
+blue: 30, Game 19 is not possible!!!
+green: 30, Game 20 is not possible!!!
+green: 35, Game 21 is not possible!!!
+blue: 10, green: 45, Game 22 is not possible!!!
+green: 3, red: 13, Game 23 is not possible!!!
+red: 16, Game 24 is not possible!!!
+red: 19, Game 25 is not possible!!!
+red: 13, Game 26 is not possible!!!
+blue: 9, red: 26, Game 27 is not possible!!!
+blue: 8, red: 45, Game 28 is not possible!!!
+blue: 4, green: 29, Game 29 is not possible!!!
+green: 12, blue: 37, Game 30 is not possible!!!
+red: 46, Game 31 is not possible!!!
+red: 26, Game 32 is not possible!!!
+red: 45, Game 33 is not possible!!!
+blue: 18, Game 34 is not possible!!!
+blue: 32, Game 35 is not possible!!!
+blue: 43, Game 36 is not possible!!!
+red: 12, green: 19, Game 37 is not possible!!!
+red: 21, Game 38 is not possible!!!
+red: 71, Game 39 is not possible!!!
+red: 2, green: 12, blue: 10, Game 40 is possible
+red: 9, blue: 34, Game 41 is not possible!!!
+red: 26, Game 42 is not possible!!!
+red: 2, green: 66, Game 43 is not possible!!!
+red: 25, Game 44 is not possible!!!
+green: 21, Game 45 is not possible!!!
+green: 24, Game 46 is not possible!!!
+red: 7, blue: 29, Game 47 is not possible!!!
+green: 15, Game 48 is not possible!!!
+blue: 19, Game 49 is not possible!!!
+red: 1, green: 20, Game 50 is not possible!!!
+green: 30, Game 51 is not possible!!!
+blue: 21, Game 52 is not possible!!!
+green: 7, blue: 21, Game 53 is not possible!!!
+blue: 3, red: 5, green: 9, Game 54 is possible
+green: 14, Game 55 is not possible!!!
+red: 11, green: 39, Game 56 is not possible!!!
+green: 44, Game 57 is not possible!!!
+green: 10, red: 28, Game 58 is not possible!!!
+blue: 37, Game 59 is not possible!!!
+blue: 22, Game 60 is not possible!!!
+green: 2, red: 24, Game 61 is not possible!!!
+blue: 20, Game 62 is not possible!!!
+green: 1, blue: 3, red: 33, Game 63 is not possible!!!
+blue: 11, red: 41, Game 64 is not possible!!!
+blue: 1, red: 11, green: 26, Game 65 is not possible!!!
+blue: 9, red: 41, Game 66 is not possible!!!
+blue: 3, red: 29, Game 67 is not possible!!!
+blue: 26, Game 68 is not possible!!!
+red: 28, Game 69 is not possible!!!
+red: 19, Game 70 is not possible!!!
+red: 32, Game 71 is not possible!!!
+blue: 6, green: 28, Game 72 is not possible!!!
+blue: 23, Game 73 is not possible!!!
+blue: 11, red: 8, green: 28, Game 74 is not possible!!!
+green: 37, Game 75 is not possible!!!
+red: 11, green: 74, Game 76 is not possible!!!
+green: 16, Game 77 is not possible!!!
+green: 30, Game 78 is not possible!!!
+red: 6, green: 29, Game 79 is not possible!!!
+green: 35, Game 80 is not possible!!!
+green: 2, red: 13, Game 81 is not possible!!!
+blue: 9, red: 30, Game 82 is not possible!!!
+red: 16, Game 83 is not possible!!!
+red: 8, blue: 6, green: 33, Game 84 is not possible!!!
+green: 34, Game 85 is not possible!!!
+blue: 4, red: 32, Game 86 is not possible!!!
+red: 40, Game 87 is not possible!!!
+blue: 11, red: 2, green: 28, Game 88 is not possible!!!
+green: 48, Game 89 is not possible!!!
+red: 10, blue: 19, Game 90 is not possible!!!
+blue: 51, Game 91 is not possible!!!
+green: 9, blue: 40, Game 92 is not possible!!!
+red: 30, Game 93 is not possible!!!
+red: 23, Game 94 is not possible!!!
+blue: 25, Game 95 is not possible!!!
+red: 13, Game 96 is not possible!!!
+green: 7, red: 14, Game 97 is not possible!!!
+red: 36, Game 98 is not possible!!!
+green: 29, Game 99 is not possible!!!
+green: 2, blue: 16, Game 100 is not possible!!!
