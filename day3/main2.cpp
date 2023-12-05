@@ -40,7 +40,6 @@ int find_gears(const std::vector<std::string> &input, int i, int j) {
 
   for (auto n : nums)
     sum *= n;
-  
 
   return sum;
 }
